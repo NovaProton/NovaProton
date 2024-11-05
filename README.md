@@ -4,7 +4,7 @@
 
 # About Me
 
-Hi there! I'm Nova, an enthusiastic developer, tech lover, and proud neurodivergent individual passionate about exploring creative coding projects, particularly in areas like web development, data analysis, and software design. With extensive experience in the computer industry, I founded [TheProton](https://www.theproton.space) in 2016, focusing on innovative website creation. I am skilled in project management, teamwork, and effective communication, and I strive to stay up-to-date with the latest technology to provide expert web development services that make every client feel valued and supported. I enjoy working with a wide range of technologies, from frontend JavaScript to backend systems, and I’m always excited to learn and grow my skill set.
+Hi there! I'm Nova, an enthusiastic developer, tech lover, and proud neurodivergent individual passionate about exploring creative coding projects, particularly in areas like web development, data analysis, and software design. With extensive experience in the computer industry, I founded [TheProton](https://www.theproton.space) in 2016, focusing on innovative website creation. I am skilled in project management, teamwork, and effective communication. I strive to stay up-to-date with the latest technology to provide expert web development services that make every client feel valued and supported. I enjoy working with various technologies, from frontend JavaScript to backend systems, and I’m always excited to learn and grow my skill set.
 
 ## What I Do
 
@@ -12,7 +12,7 @@ Hi there! I'm Nova, an enthusiastic developer, tech lover, and proud neurodiverg
 - **Project Management**: I have extensive experience managing e-commerce development, fulfillment, and data analytics projects, ensuring timely delivery and smooth collaboration between team members and stakeholders.
 - **Data Analysis**: I love working with data, using Python and SQL to gain insights and help make data-driven decisions. My experience includes conducting data analytics to support strategic insights and enhance customer experiences.
 - **Creative Coding**: I experiment with visual and interactive programming projects, ranging from digital art to time-based animations like spinning clocks and binary displays.
-- **IT Consulting**: Helping clients improve their workflows and technology usage by integrating practical software solutions, with a focus on inclusivity and user-centered support.
+- **IT Consulting**: Helping clients improve their workflows and technology usage by integrating practical software solutions focusing on inclusivity and user-centred support.
 
 ## Technologies I Use
 
@@ -25,7 +25,7 @@ Hi there! I'm Nova, an enthusiastic developer, tech lover, and proud neurodiverg
 ## Projects I'm Proud Of
 
 - **Spinning Clock**: A visually engaging clock that uses spinning elements to represent time, showcasing CSS and JavaScript animation techniques. [GitHub Repository](https://github.com/NovaProton/Spinning-Clock)
-- **Hexadecimal Color Clock**: A project that updates the background color in real time based on the current time in hexadecimal format. [GitHub Repository](https://github.com/NovaProton/HEX-Clock)
+- **Hexadecimal Color Clock**: A project that updates the background colour in real-time based on the current time in hexadecimal format. [GitHub Repository](https://github.com/NovaProton/HEX-Clock)
 - **Astrophotography Tracker**: A database and logging tool I built to keep track of my astrophotography sessions, enhancing planning and analysis.
 
 ## My Learning Journey
