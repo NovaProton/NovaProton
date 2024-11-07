@@ -4,7 +4,7 @@
 
 # About Me
 
-Hi there! I'm Nova, an enthusiastic developer, tech lover, and proud neurodivergent individual passionate about exploring creative coding projects, particularly in areas like web development, data analysis, and software design. With extensive experience in the computer industry, I founded [TheProton](https://www.theproton.space) in 2016, focusing on innovative website creation. I am skilled in project management, teamwork, and effective communication. I strive to stay up-to-date with the latest technology to provide expert web development services that make every client feel valued and supported. I enjoy working with various technologies, from frontend JavaScript to backend systems, and I’m always excited to learn and grow my skill set.
+Hi there! I'm Nova, an enthusiastic developer, tech lover, and proud neurodivergent individual who is passionate about exploring creative coding projects, particularly in areas like web development, data analysis, and software design. With extensive experience in the computer industry, I founded [TheProton](https://www.theproton.space) in 2016, focusing on innovative website creation. I am skilled in project management, teamwork, and effective communication. I strive to stay up-to-date with the latest technology to provide expert web development services that make every client feel valued and supported. I enjoy working with various technologies, from frontend JavaScript to backend systems, and I’m always excited to learn and grow my skill set.
 
 ## What I Do
 
@@ -30,9 +30,9 @@ Hi there! I'm Nova, an enthusiastic developer, tech lover, and proud neurodiverg
 
 ## My Learning Journey
 
-I’m currently pursuing a degree in Natural Sciences with a focus on Astronomy and Planetary Science. It’s challenging but extremely rewarding, and I enjoy diving into the mysteries of space in both my studies and hobbies.
+I’m currently pursuing a degree in Natural Sciences with a focus on Astronomy and Planetary Science. Whilst it is challenging, it is also extremely rewarding. I enjoy diving into the mysteries of space in both my studies and hobbies.
 
-### :hammer_and_wrench: Languages and Tools :
+## :hammer_and_wrench: Languages and Tools :
 
 <!-- Technologies Icons -->
 
